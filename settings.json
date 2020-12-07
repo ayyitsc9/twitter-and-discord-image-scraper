@@ -1,0 +1,17 @@
+{
+    "folder_path":"",
+    "number_of_tweets_to_scrape":10,
+    "screen_name":"@ayyitsc9",
+    "use_date_filter":true,
+    "date_filter":[2020, 12, 5, 0, 0, 0],
+    "CONSUMER_API_KEY":"",
+    "CONSUMER_API_SECRET":"",
+    "ACCESS_TOKEN":"",
+    "ACCESS_TOKEN_SECRET":"",
+    "discord": {
+        "bot_token":"",
+        "max_number_of_messages_to_scrape":10,
+        "channel_id_to_scrape":""
+    }
+
+}
